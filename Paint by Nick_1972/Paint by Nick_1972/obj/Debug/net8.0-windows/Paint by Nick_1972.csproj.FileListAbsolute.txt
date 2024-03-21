@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\bin\Debug\net8.0-windows\Paint by Nick_1972.exe
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\bin\Debug\net8.0-windows\Paint by Nick_1972.deps.json
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\bin\Debug\net8.0-windows\Paint by Nick_1972.runtimeconfig.json
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\bin\Debug\net8.0-windows\Paint by Nick_1972.dll
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\bin\Debug\net8.0-windows\Paint by Nick_1972.pdb
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\Paint_by_Nick_1972.Form1.resources
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\Paint by Nick_1972.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\Paint by Nick_1972.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\Paint by Nick_1972.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\Paint by Nick_1972.AssemblyInfo.cs
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\Paint by Nick_1972.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\Paint by Nick_1972.dll
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\refint\Paint by Nick_1972.dll
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\Paint by Nick_1972.pdb
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\Paint by Nick_1972.genruntimeconfig.cache
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\ref\Paint by Nick_1972.dll
+C:\Users\user\source\repos\Paint by Nick_1972\Paint by Nick_1972\obj\Debug\net8.0-windows\Paint_by_Nick_1972.Properties.Resources.resources
